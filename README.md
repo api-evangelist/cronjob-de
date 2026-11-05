@@ -1,4 +1,4 @@
-# cronjob-de
+# Cronjob.de
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,109 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-cronjob-de is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://cronjob.de/
+Cronjob.de offers a free online cron job scheduling service without requiring a server. Operated by a German company since 2003, it runs on EU-based servers, provides invoicing with VAT, GDPR‑compliant data processing agreements, team accounts, and AI‑assisted setup. Users can create cron jobs via a web UI or API, with monitoring and alerts, all hosted on renewable‑energy powered infrastructure.
+
+**Areas:** Cronjob · Scheduling · Automation · FreeService · EUHosted
+
+## Cronjob.de on APIs.io
+
+Everything profiled for Cronjob.de is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cronjob-de/](https://apis.io/providers/cronjob-de/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [Cronjob.de Benachrichtigungen API](https://apis.io/apis/cronjob-de/cronjob-de-benachrichtigungen-api/) — The Benachrichtigungen API from Cronjob.de — 2 operation(s) for benachrichtigungen.
+- [Cronjob.de Cronjobs und Heartbeats API](https://apis.io/apis/cronjob-de/cronjob-de-cronjobs-und-heartbeats-api/) — The Cronjobs und Heartbeats API from Cronjob.de — 10 operation(s) for cronjobs und heartbeats.
+- [Cronjob.de Serverüberwachung und SSL API](https://apis.io/apis/cronjob-de/cronjob-de-server-berwachung-und-ssl-api/) — The Serverüberwachung und SSL API from Cronjob.de — 4 operation(s) for serverüberwachung und ssl.
+- [Cronjob.de Statusseiten API](https://apis.io/apis/cronjob-de/cronjob-de-statusseiten-api/) — The Statusseiten API from Cronjob.de — 2 operation(s) for statusseiten.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Cronjob De Agentic Access](https://apis.io/agentic-access/cronjob-de/cronjob-de-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Cronjob.de API Rules](https://apis.io/rules/cronjob-de/cronjob-de-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cronjob De Authentication](https://apis.io/security/cronjob-de/cronjob-de-authentication/)
+- [Cronjob De Domain Security](https://apis.io/security/cronjob-de/cronjob-de-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cronjob.de/)
+- [Documentation](https://www.cronjob.de/en/guides)
+- [API reference](https://www.cronjob.de/llms.txt)
+- [Pricing](https://www.cronjob.de/en/pricing)
+- [Sign up](https://www.cronjob.de/en/sign-up)
+- [Changelog](https://www.cronjob.de/en/whats-new)
+- [Terms of service](https://www.cronjob.de/en/terms)
+- [Privacy policy](https://www.cronjob.de/en/privacy)
+- [Status](https://status.cronjob.de/)
+
+## API Evangelist rating
+
+**Kin Score 49.0** — developing · rubric 0.25.0 · scored 2026-11-04
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 45.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 44.7 |
+
+**Agent readiness 30.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cronjob-de/](https://apis.io/providers/cronjob-de/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cronjob.de: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cronjob-de/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
